@@ -1,8 +1,8 @@
-![Untitled](https://github.com/adhamzarif/adhamzarif/assets/148647705/bf0d03c0-7406-4fd5-87f7-18d5c329f77d)
-
 ### Hi there 👋, I'm Adham Zarif 😀
 #### I am CS Student,A learner & A tech enthusiast !!!
-![I am CS Student,A learner & A tech enthusiast !!!](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am CS Student,A learner & A tech enthusiast !!!]
+
+![Untitled](https://github.com/adhamzarif/adhamzarif/assets/148647705/bf0d03c0-7406-4fd5-87f7-18d5c329f77d)
 
 📲 I’m currently an undergraduate student pursuing a Bachelor of Science in Engineering (B.Sc. Engg.) with a major in Computer Science & Engineering at United International University. With a passion for technology and a keen interest in solving complex problems, I am committed to leveraging my skills and knowledge to make a meaningful impact in the field of computer science.I’m particularly fascinated by emerging technologies and their potential to reshape the future. Whether it's through hands-on projects, collaborative team efforts, or independent research, I am always eager to explore new ideas and contribute to innovative solutions.
 
