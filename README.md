@@ -21,8 +21,6 @@ Skills: C / Java
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=adhamzarif)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adhamzarif&layout=compact&langs_count=10&theme=radical)](https://github.com/adhamzarif/github-readme-stats)
-
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=adhamzarif&show_icons=true)  
 
