@@ -1,5 +1,5 @@
-- 📫 **How to reach me:** Reach out directly at [zarif786@protonmail.com](mailto:zarif786@protonmail.com)
+- 📫 **How to reach me:** [zarif786@protonmail.com](mailto:zarif786@protonmail.com)
 
-<p align="left">
-  <img src="334885197-bf0d03c0-7406-4fd5-87f7-18d5c329f77d.gif" alt="Reach me" width="350" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/afae4d20-97dd-4b62-9770-111555cc5133" alt="adhamzarif" width="100%" />
 </p>
