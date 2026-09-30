@@ -125,7 +125,7 @@ I'm Adham Zarif from Dhaka<br>
 <br>
 
 <div align="center">
-  <img src="https://trophy.benkou.dev/?username=adhamzarif&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy graph" />
+  <img src="https://raw.githubusercontent.com/adhamzarif/adhamzarif/trophy-output/trophy.svg" width="100%" alt="trophy graph" />
 </div>
 
 <br>
